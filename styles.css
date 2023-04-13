@@ -1,0 +1,46 @@
+.content
+{
+    display: flex;
+    flex-direction: column;
+}
+        .header
+        {
+            display: flex;
+            flex-direction: row;
+            background-color: #1F2937;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #F9FAF8;
+        }
+        ul
+        {
+            display: flex;
+            list-style-type: none;
+            gap: 24px;
+        }
+        a
+        {
+            text-decoration: none;
+        }
+        
+    .chunk-1
+    {
+        display: flex;
+    }
+    .chunk-2
+    {
+        display: flex;
+    }
+    .chunk-3
+    {
+        display: flex;
+    }
+    .chunk-4
+    {
+        display: flex;
+    }
+
+        .footer
+        {
+            display: flex;
+            background-color: #1F2937;
+        }
